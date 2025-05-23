@@ -1,0 +1,14 @@
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\bin\Debug\net9.0\DesafioFundamentos.exe
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\bin\Debug\net9.0\DesafioFundamentos.deps.json
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\bin\Debug\net9.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\bin\Debug\net9.0\DesafioFundamentos.dll
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\bin\Debug\net9.0\DesafioFundamentos.pdb
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.dll
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\obj\Debug\net9.0\refint\DesafioFundamentos.dll
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.pdb
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\obj\Debug\net9.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\Glhalton\Documents\Glhalton\VS Code\C#\DesafioFundamentos\obj\Debug\net9.0\ref\DesafioFundamentos.dll
