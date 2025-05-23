@@ -1,5 +1,7 @@
 ﻿using DesafioFundamentos.Models;
 
+int escolha = 0;
+bool menu = true;
 
 Console.WriteLine("Seja bem-vindo ao sistema de estacionamento!");
 
@@ -10,9 +12,6 @@ Console.WriteLine("Agora digite o preço por hora:");
 decimal precoHora = Convert.ToDecimal(Console.ReadLine());
 
 Estacionamento est = new Estacionamento(precoInicial, precoHora);
-
-int escolha = 0;
-bool menu = true;
 
 while (menu)
 {
